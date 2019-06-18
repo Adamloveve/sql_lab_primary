@@ -18,3 +18,4 @@ phpStudy2016 download url:
 本文如有错误，请及时提醒，以免误导他人 email:    adamxxoo@163.com
 
 ![Image text](https://github.com/Adamloveve/sql_lab_primary/blob/master/IMG/wx.png)
+![Image text](https://github.com/Adamloveve/sql_lab_primary/blob/master/IMG/alipay.jpg)
