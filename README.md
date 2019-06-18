@@ -1,2 +1,2 @@
 # sql_lab_primary
-for beginner
+sql injection for beginner
