@@ -1,5 +1,5 @@
 # sql_lab_primary
-本文如有错误，请及时提醒，以免误导他人email:     adamxxoo@163.com qq群：703653509 (后期昂贵付费，暂时免费入群，认识各种安全大佬，开发大佬，吹牛逼，学知识)
+本文如有错误，请及时提醒，以免误导他人email:     adamxxoo@163.com qq群：703653509 (后期昂贵付费，暂时免费入群，新群下面有群二维码，认识各种安全大佬，开发大佬，吹牛逼，学知识)
 
 manual sql injection for beginner
 
