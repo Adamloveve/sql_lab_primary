@@ -22,4 +22,3 @@ phpStudy2016 download url:
 
 ![Image text](https://github.com/Adamloveve/sql_lab_primary/blob/master/IMG/wx.png)
 ![Image text](https://github.com/Adamloveve/sql_lab_primary/blob/master/IMG/qq.jpg)
-![Image text](https://github.com/Adamloveve/sql_lab_primary/blob/master/IMG/alipay.jpg)
